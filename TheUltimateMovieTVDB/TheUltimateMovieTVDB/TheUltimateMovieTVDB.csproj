@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TheUltimateTMDb\TheUltimateTMDb.csproj" />
+    <ProjectReference Include="..\TheUltimateTVDB\TheUltimateTVDB.csproj" />
+  </ItemGroup>
+
+</Project>
